@@ -3,3 +3,4 @@
 # Exclude files
 !/.gitignore
 !/package.json
+!/README.md
