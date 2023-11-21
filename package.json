@@ -1,0 +1,9 @@
+{
+  "name": "k-space",
+  "version": "0.0.0",
+  "description": "K-Space is a open-source ecosystem for companies",
+  "main": "index.js",
+  "author": "samsonium",
+  "license": "MIT",
+  "private": true
+}

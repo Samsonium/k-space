@@ -1,0 +1,5 @@
+/*
+
+# Exclude files
+!/.gitignore
+!/package.json
