@@ -6,6 +6,7 @@
 
 # Exclude files
 !/.gitignore
+!/example.config.json
 !/nest-cli.json
 !/package.json
 !/README.md
